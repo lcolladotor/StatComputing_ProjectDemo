@@ -1,0 +1,13 @@
+---
+title: "Untitled"
+format: revealjs
+---
+
+``` R
+print("hola")
+```
+
+
+```{r}
+sessioninfo::session_info()
+```
