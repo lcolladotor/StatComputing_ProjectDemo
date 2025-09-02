@@ -1,12 +1,23 @@
 ---
-title: "Untitled"
+title: "Revealjs demo presentation"
 format: revealjs
 ---
+
+# Hello, Quarto!
 
 ``` R
 print("hola")
 ```
 
+# Quarto demo
+
+See [2025-09-02_demo_quarto.qmd](2025-09-02_demo_quarto.qmd) and [2025-09-02_demo_quarto.html](2025-09-02_demo_quarto.html) for an example quarto file and its rendered output.
+
+# Class info
+
+This demo was part of <https://lcolladotor.github.io/jhustatcomputing/posts/05-literate-programming/>. It was made on 2025-09-02.
+
+# R session info
 
 ```{r}
 sessioninfo::session_info()
